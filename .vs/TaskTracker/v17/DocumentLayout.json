@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ajay.ramesh\\Documents\\Learning\\Training\\Training-2\\TaskTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09471679-23BC-4D36-A6DA-DC876E4F03E5}|TaskTracker\\TaskTracker.csproj|c:\\users\\ajay.ramesh\\documents\\learning\\training\\training-2\\tasktracker\\tasktracker\\hubs\\notifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09471679-23BC-4D36-A6DA-DC876E4F03E5}|TaskTracker\\TaskTracker.csproj|solutionrelative:tasktracker\\hubs\\notifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09471679-23BC-4D36-A6DA-DC876E4F03E5}|TaskTracker\\TaskTracker.csproj|c:\\users\\ajay.ramesh\\documents\\learning\\training\\training-2\\tasktracker\\tasktracker\\hubs\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09471679-23BC-4D36-A6DA-DC876E4F03E5}|TaskTracker\\TaskTracker.csproj|solutionrelative:tasktracker\\hubs\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09471679-23BC-4D36-A6DA-DC876E4F03E5}|TaskTracker\\TaskTracker.csproj|c:\\users\\ajay.ramesh\\documents\\learning\\training\\training-2\\tasktracker\\tasktracker\\models\\connectedusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09471679-23BC-4D36-A6DA-DC876E4F03E5}|TaskTracker\\TaskTracker.csproj|solutionrelative:tasktracker\\models\\connectedusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09471679-23BC-4D36-A6DA-DC876E4F03E5}|TaskTracker\\TaskTracker.csproj|c:\\users\\ajay.ramesh\\documents\\learning\\training\\training-2\\tasktracker\\tasktracker\\dataaccesslayer\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09471679-23BC-4D36-A6DA-DC876E4F03E5}|TaskTracker\\TaskTracker.csproj|solutionrelative:tasktracker\\dataaccesslayer\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09471679-23BC-4D36-A6DA-DC876E4F03E5}|TaskTracker\\TaskTracker.csproj|c:\\users\\ajay.ramesh\\documents\\learning\\training\\training-2\\tasktracker\\tasktracker\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09471679-23BC-4D36-A6DA-DC876E4F03E5}|TaskTracker\\TaskTracker.csproj|solutionrelative:tasktracker\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09471679-23BC-4D36-A6DA-DC876E4F03E5}|TaskTracker\\TaskTracker.csproj|c:\\users\\ajay.ramesh\\documents\\learning\\training\\training-2\\tasktracker\\tasktracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09471679-23BC-4D36-A6DA-DC876E4F03E5}|TaskTracker\\TaskTracker.csproj|solutionrelative:tasktracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09471679-23BC-4D36-A6DA-DC876E4F03E5}|TaskTracker\\TaskTracker.csproj|c:\\users\\ajay.ramesh\\documents\\learning\\training\\training-2\\tasktracker\\tasktracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{09471679-23BC-4D36-A6DA-DC876E4F03E5}|TaskTracker\\TaskTracker.csproj|solutionrelative:tasktracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09471679-23BC-4D36-A6DA-DC876E4F03E5}|TaskTracker\\TaskTracker.csproj|c:\\users\\ajay.ramesh\\documents\\learning\\training\\training-2\\tasktracker\\tasktracker\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09471679-23BC-4D36-A6DA-DC876E4F03E5}|TaskTracker\\TaskTracker.csproj|solutionrelative:tasktracker\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ajay.ramesh\\Documents\\Training\\WebAPIProject1\\CURDWebAPi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.ramesh\\Documents\\Learning\\Training\\Training-2\\TaskTracker\\TaskTracker\\DataAccessLayer\\DataAccess.cs",
+              "RelativeDocumentMoniker": "TaskTracker\\DataAccessLayer\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\ajay.ramesh\\Documents\\Learning\\Training\\Training-2\\TaskTracker\\TaskTracker\\DataAccessLayer\\DataAccess.cs",
+              "RelativeToolTip": "TaskTracker\\DataAccessLayer\\DataAccess.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:40:16.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.ramesh\\Documents\\Learning\\Training\\Training-2\\TaskTracker\\TaskTracker\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TaskTracker\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\ajay.ramesh\\Documents\\Learning\\Training\\Training-2\\TaskTracker\\TaskTracker\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TaskTracker\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAIwBAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:40:16.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Notifications.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.ramesh\\Documents\\Learning\\Training\\Training-2\\TaskTracker\\TaskTracker\\Hubs\\Notifications.cs",
+              "RelativeDocumentMoniker": "TaskTracker\\Hubs\\Notifications.cs",
+              "ToolTip": "C:\\Users\\ajay.ramesh\\Documents\\Learning\\Training\\Training-2\\TaskTracker\\TaskTracker\\Hubs\\Notifications.cs",
+              "RelativeToolTip": "TaskTracker\\Hubs\\Notifications.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:40:16.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "INotification.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.ramesh\\Documents\\Learning\\Training\\Training-2\\TaskTracker\\TaskTracker\\Hubs\\INotification.cs",
+              "RelativeDocumentMoniker": "TaskTracker\\Hubs\\INotification.cs",
+              "ToolTip": "C:\\Users\\ajay.ramesh\\Documents\\Learning\\Training\\Training-2\\TaskTracker\\TaskTracker\\Hubs\\INotification.cs",
+              "RelativeToolTip": "TaskTracker\\Hubs\\INotification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:40:16.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ajay.ramesh\\Documents\\Learning\\Training\\Training-2\\TaskTracker\\TaskTracker\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskTracker\\appsettings.json",
+              "ToolTip": "C:\\Users\\ajay.ramesh\\Documents\\Learning\\Training\\Training-2\\TaskTracker\\TaskTracker\\appsettings.json",
+              "RelativeToolTip": "TaskTracker\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T13:40:16.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConnectedUsers.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.ramesh\\Documents\\Learning\\Training\\Training-2\\TaskTracker\\TaskTracker\\Models\\ConnectedUsers.cs",
+              "RelativeDocumentMoniker": "TaskTracker\\Models\\ConnectedUsers.cs",
+              "ToolTip": "C:\\Users\\ajay.ramesh\\Documents\\Learning\\Training\\Training-2\\TaskTracker\\TaskTracker\\Models\\ConnectedUsers.cs",
+              "RelativeToolTip": "TaskTracker\\Models\\ConnectedUsers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:40:16.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.ramesh\\Documents\\Learning\\Training\\Training-2\\TaskTracker\\TaskTracker\\Program.cs",
+              "RelativeDocumentMoniker": "TaskTracker\\Program.cs",
+              "ToolTip": "C:\\Users\\ajay.ramesh\\Documents\\Learning\\Training\\Training-2\\TaskTracker\\TaskTracker\\Program.cs",
+              "RelativeToolTip": "TaskTracker\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:40:16.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.ramesh\\Documents\\Learning\\Training\\Training-2\\TaskTracker\\TaskTracker\\Models\\Model.cs",
+              "RelativeDocumentMoniker": "TaskTracker\\Models\\Model.cs",
+              "ToolTip": "C:\\Users\\ajay.ramesh\\Documents\\Learning\\Training\\Training-2\\TaskTracker\\TaskTracker\\Models\\Model.cs",
+              "RelativeToolTip": "TaskTracker\\Models\\Model.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwEIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:40:16.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.ramesh\\Documents\\Training\\WebAPIProject1\\CURDWebAPi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Training\\WebAPIProject1\\CURDWebAPi\\Program.cs",
+              "ToolTip": "C:\\Users\\ajay.ramesh\\Documents\\Training\\WebAPIProject1\\CURDWebAPi\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Training\\WebAPIProject1\\CURDWebAPi\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-07T12:42:49.435Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
