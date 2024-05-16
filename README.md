@@ -5,6 +5,9 @@
 
 This project is a Task Tracker application built using SignalR for real-time updates, ASP.NET Web Framework for the backend, and Angular for the frontend. The application allows users to create, update, delete, and track tasks in real-time.
 
+## Amgular Project
+https://github.com/AJAY2-R/TaskTracker
+
 ## Features
 
 - Real-time task updates using SignalR
